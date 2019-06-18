@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Programmers Sudoku</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="submit_puzzle">Submit Puzzle</string>
+    <string name="solved">Solved</string>
+    <string name="keep_trying">Keep Trying</string>
+    <string name="puzzle_numbers">%1$s</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="new_game">New Game</string>
+    <string name="settings_desc">
+        Select the difficulty level to increase or decrease the \n
+        number of populated squares.
+    </string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="expert">Expert</string>
+    <string name="help_desc">
+        Sudoku is a game that contains 81 squares: \n
+        - 9 rows and 9 columns. \n\nIn traditional Sudoku, each block must contain a digit
+        between 1 and 9, but because this is the programmer\'s
+        edition, each block must contain a digit between 0 and 8.
+        Each digit can only be repeated once in each row and each
+        column.\n\nThe Sudoku puzzle is also composed of 9 square (3x3)
+        blocks that also must contain the digits 0 to 8 and they
+        must appear only once as well.
+    </string>
+    <string name="authors">
+        <b>Authors</b>\n
+        - Cajic Dino\n
+        - Hwang Ha\n
+        - Soares Carlos
+    </string>
+</resources>
