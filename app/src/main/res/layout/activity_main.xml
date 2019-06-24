@@ -59,7 +59,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText01"
@@ -71,7 +72,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText02"
@@ -83,7 +85,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText03"
@@ -95,7 +98,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText04"
@@ -107,7 +111,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText05"
@@ -119,7 +124,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText06"
@@ -131,7 +137,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText07"
@@ -143,7 +150,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText08"
@@ -155,7 +163,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
@@ -177,7 +186,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText11"
@@ -189,7 +199,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText12"
@@ -201,7 +212,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText13"
@@ -213,7 +225,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText14"
@@ -225,7 +238,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText15"
@@ -237,7 +251,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText16"
@@ -249,7 +264,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText17"
@@ -261,7 +277,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText18"
@@ -273,7 +290,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
@@ -295,7 +313,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText21"
@@ -307,7 +326,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText22"
@@ -319,7 +339,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText23"
@@ -331,7 +352,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText24"
@@ -343,7 +365,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText25"
@@ -355,7 +378,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText26"
@@ -367,7 +391,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText27"
@@ -379,7 +404,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText28"
@@ -391,7 +417,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
@@ -413,7 +440,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText31"
@@ -425,7 +453,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText32"
@@ -437,7 +466,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText33"
@@ -449,7 +479,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText34"
@@ -461,7 +492,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText35"
@@ -473,7 +505,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText36"
@@ -485,7 +518,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText37"
@@ -497,7 +531,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText38"
@@ -509,7 +544,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
@@ -531,7 +567,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText41"
@@ -543,7 +580,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText42"
@@ -555,7 +593,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText43"
@@ -567,7 +606,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText44"
@@ -579,7 +619,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText45"
@@ -591,7 +632,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText46"
@@ -603,7 +645,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText47"
@@ -615,7 +658,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText48"
@@ -627,7 +671,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
@@ -649,7 +694,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText51"
@@ -661,7 +707,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText52"
@@ -673,7 +720,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText53"
@@ -685,7 +733,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText54"
@@ -697,7 +746,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText55"
@@ -709,7 +759,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText56"
@@ -721,7 +772,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText57"
@@ -733,7 +785,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText58"
@@ -745,7 +798,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
@@ -767,7 +821,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText61"
@@ -779,7 +834,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText62"
@@ -791,7 +847,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText63"
@@ -803,7 +860,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText64"
@@ -815,7 +873,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText65"
@@ -827,7 +886,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText66"
@@ -839,7 +899,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText67"
@@ -851,7 +912,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText68"
@@ -863,7 +925,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
@@ -885,7 +948,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText71"
@@ -897,7 +961,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText72"
@@ -909,7 +974,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText73"
@@ -921,7 +987,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText74"
@@ -933,7 +1000,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText75"
@@ -945,7 +1013,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText76"
@@ -957,7 +1026,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText77"
@@ -969,7 +1039,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText78"
@@ -981,7 +1052,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
@@ -1003,7 +1075,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText81"
@@ -1015,7 +1088,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText82"
@@ -1027,7 +1101,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText83"
@@ -1039,7 +1114,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText84"
@@ -1051,7 +1127,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText85"
@@ -1063,7 +1140,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText86"
@@ -1075,7 +1153,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText87"
@@ -1087,7 +1166,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
             <EditText
                 android:id="@+id/editText88"
@@ -1099,7 +1179,8 @@
                 android:elegantTextHeight="false"
                 android:ems="2"
                 android:inputType="number"
-                android:padding="2dp" />
+                android:padding="2dp"
+                android:textAlignment="center" />
 
         </TableRow>
 
