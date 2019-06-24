@@ -24,7 +24,10 @@
         Each digit can only be repeated once in each row and each
         column.\n\nThe Sudoku puzzle is also composed of 9 square (3x3)
         blocks that also must contain the digits 0 to 8 and they
-        must appear only once as well.
+        must appear only once as well.\n\n<b>Keep Trying</b>\nWhen a user presses the Submit Puzzle
+        button, if the puzzle is not correct, the message is displayed to try again.\n\n<b>Solved</b>\nThe
+        following message is displayed if the puzzle is correct when the user presses
+        the Submit Puzzle button.
     </string>
     <string name="authors">
         <b>Authors</b>\n
