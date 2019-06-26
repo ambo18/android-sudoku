@@ -86,6 +86,8 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.new_game:
                 intent = new Intent( MainActivity.this, MainActivity.class );
+                // Similar to finish() but it destroys all previous activities
+                intent.addFlags( Intent.FLAG_ACTIVITY_CLEAR_TOP );
                 break;
             default:
                 Log.i("MainActivity", "Default case accessed in onOptionsItemSelected()");
