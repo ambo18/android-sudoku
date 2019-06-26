@@ -6,20 +6,27 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.MotionEvent;
 import android.view.View;
-import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.Random;
 
+/**
+ * Project 1
+ * Sudoku Mobile App
+ * Mobile App Development
+ *
+ * Authors
+ * - Dino Cajic
+ * - Ha Hwang
+ * - Carlos Soares
+ */
 public class MainActivity extends AppCompatActivity {
 
     // App Name at the top
@@ -59,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Allows for the user to switch to the Help screen
+     * Allows for the user to switch to other activities
      *
      * @param item - menu item
      * @return - boolean
@@ -67,20 +74,24 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
 
-        if ( item.getItemId() == R.id.help ) {
-            Intent helpIntent = new Intent( MainActivity.this, HelpActivity.class );
-            startActivity( helpIntent );
+        Intent intent = new Intent( MainActivity.this, MainActivity.class );
+
+        switch( item.getItemId() ) {
+
+            case R.id.help:
+                intent = new Intent( MainActivity.this, HelpActivity.class );
+                break;
+            case R.id.settings:
+                intent = new Intent( MainActivity.this, SettingsActivity.class );
+                break;
+            case R.id.new_game:
+                intent = new Intent( MainActivity.this, MainActivity.class );
+                break;
+            default:
+                Log.i("MainActivity", "Default case accessed in onOptionsItemSelected()");
         }
 
-        if ( item.getItemId() == R.id.settings ) {
-            Intent settingsIntent = new Intent( MainActivity.this, SettingsActivity.class );
-            startActivity( settingsIntent );
-        }
-
-        if ( item.getItemId() == R.id.new_game ) {
-            Intent mainIntent = new Intent( MainActivity.this, MainActivity.class );
-            startActivity( mainIntent );
-        }
+        startActivity( intent );
 
         return super.onOptionsItemSelected(item);
     }

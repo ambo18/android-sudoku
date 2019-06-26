@@ -5,8 +5,17 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.RadioGroup;
-import android.widget.TextView;
 
+/**
+ * Project 1
+ * Sudoku Mobile App
+ * Mobile App Development
+ *
+ * Authors
+ * - Dino Cajic
+ * - Ha Hwang
+ * - Carlos Soares
+ */
 public class SettingsActivity extends AppCompatActivity {
 
     private Globals    globals;
@@ -19,6 +28,9 @@ public class SettingsActivity extends AppCompatActivity {
         this.init();
     }
 
+    /**
+     * Initializes the necessary content for the Settings Screen
+     */
     private void init() {
         this.globals    = (Globals) getApplicationContext();
         this.radioGroup = findViewById( R.id.difficulty );
@@ -27,6 +39,9 @@ public class SettingsActivity extends AppCompatActivity {
         this.setGroupListener();
     }
 
+    /**
+     * Checks the difficulty button based on the current difficulty
+     */
     private void displayDifficulty() {
 
         switch( this.globals.getStringGameDifficulty() ) {
@@ -38,6 +53,9 @@ public class SettingsActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * Updates the game difficulty in the Globals class and redirects the user to the game
+     */
     private void setGroupListener() {
         this.radioGroup.setOnCheckedChangeListener( new RadioGroup.OnCheckedChangeListener() {
 

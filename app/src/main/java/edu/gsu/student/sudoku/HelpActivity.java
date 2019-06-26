@@ -4,6 +4,16 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/**
+ * Project 1
+ * Sudoku Mobile App
+ * Mobile App Development
+ *
+ * Authors
+ * - Dino Cajic
+ * - Ha Hwang
+ * - Carlos Soares
+ */
 public class HelpActivity extends AppCompatActivity {
 
     @Override
