@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Programmers Sudoku</string>
+    <string name="app_name">Programmer\'s Sudoku</string>
     <string name="sudoku">Sudoku</string>
     <string name="submit_puzzle">Submit Puzzle</string>
     <string name="solved">Solved</string>
