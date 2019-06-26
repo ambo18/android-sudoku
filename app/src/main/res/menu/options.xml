@@ -6,7 +6,7 @@
         android:title="@string/new_game"
         android:icon="@drawable/ic_autorenew_black_24dp"
         android:orderInCategory="100"
-        app:showAsAction="always" />
+        app:showAsAction="ifRoom" />
 
     <item android:id="@+id/settings"
         android:title="@string/settings"
