@@ -14,7 +14,7 @@ import android.app.Application;
  */
 public class Globals extends Application {
 
-    // The game difficulty. The lower the value, the harder the game. In the
+    // The game difficulty. The lower the value, the harder the game.
     private double[] difficulty = {0.25, 0.50, 0.75, 0.90};
 
     // The game's current difficulty level. It's set to medium initially
