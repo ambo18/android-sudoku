@@ -10,9 +10,11 @@
         android:supportsRtl="true"
         android:name=".Globals"
         android:theme="@style/AppTheme">
-        <activity android:name=".SettingsActivity"></activity>
-        <activity android:name=".HelpActivity" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".SettingsActivity"
+                  android:screenOrientation="portrait" />
+        <activity android:name=".HelpActivity"
+                  android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity" android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
