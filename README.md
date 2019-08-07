@@ -3,7 +3,7 @@ An Android Sudoku game for Programmers going from 0 to 8 instead of 1 to 9.
 
 The game is small twist on the regular Sudoku consisting of numbers 0 to 8 instead of 1 to 9. There are 9 rows and 9 columns consisting of 81 total squares. Once a new game is generated, the puzzle is displayed. Once the user finishes entering the numbers, he or she will click on Submit Puzzle to validate it. If the puzzle was not solved correctly, the user will receive a message stating that the puzzle is not solved, otherwise he or she will receive a message stating that the puzzle was solved successfully.
 
-##Algorithm
+## Algorithm
 - Populate first row with numbers 0 to 8.
 - Suffle first row.
 - Shift each subsequent row by 3 spaces to the right.
